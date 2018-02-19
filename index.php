@@ -8,6 +8,14 @@
     <p>THE WEB STARTUP</p>
     <p>adding bootstrap</p>
 <div/></div>
+<div class="container">
+  <div class="col-md-6">
+    <h1 class=> <small>Hello</small></h1>
+  </div>
+  <div class="col-md-6">
+    <h1> <small>World</small></h1>
+  </div>
+</div>
 
 
 <?php  get_footer();?>
