@@ -7,7 +7,7 @@
     <h1>WELCOME TO DOZO THEME</h1>
     <p>THE WEB STARTUP</p>
     <p>adding bootstrap</p>
-<div/></div>
+</div></div>
 <div class="container">
   <div class="col-md-6">
     <h1 class=> <small>Hello</small></h1>
