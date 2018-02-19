@@ -7,7 +7,7 @@
     <h1>WELCOME TO DOZO THEME</h1>
     <p>THE WEB STARTUP</p>
     <p>adding bootstrap</p>
-<div/></div>
+</div></div>
 
 
 <?php  get_footer();?>
