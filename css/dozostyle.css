@@ -1,7 +1,7 @@
 html,
 body {
 	margin:0;
-	color:gray;
+	color:#000;
 	background: silver;
 	font:sans-serif;
 	}
@@ -9,3 +9,10 @@ body {
 body{
 	padding: 20px;
 }
+
+.redbox{
+
+	background-color: #000 !important;
+	color:#fff;
+}
+
