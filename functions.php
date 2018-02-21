@@ -14,6 +14,8 @@ add_action('wp_enqueue_scripts', 'dozo_script_enqueue');
 
 function doz_theme_setup(){
 	add_theme_support( 'menus' );
+
+	register_nav_menu( 'primary', 'Primary Header Menu' );
 }
 
 add_action('after_setup_theme','doz_theme_setup');

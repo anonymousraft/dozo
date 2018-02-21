@@ -6,9 +6,10 @@
 	<title>DOZO Theme</title>
 	<?php wp_head(); ?>
 
-	
+
 </head>
 <body >
-	
+
+	<?php wp_nav_menu( ); ?>
 
 hello this is head
