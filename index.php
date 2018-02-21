@@ -3,8 +3,18 @@
     <div class="col-md-12">
 	       <?php get_header();?>
 		    <?php wp_head(); ?>
-          <h1>WELCOME TO DOZO THEME</h1>
-          <p align="center"><h1>bootstrap Added</h1></p>
+            <?php
+              if( have_posts() ):
+                while( have_posts() ): the_post(); ?>
+
+                    <h3><?php the_title(); ?></h3>
+                    <p><?php the_content(); ?></p>
+
+              <?php  endwhile;
+              endif;
+            ?>
+
+
     </div>
  </div>
 </div>
