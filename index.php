@@ -1,9 +1,5 @@
-
-
 <div class="container">
   <div class="col-md-12">
-<<<<<<< HEAD
-
 	   <?php get_header();?>
 		<?php wp_head(); ?>
          <p align="center"><h1>bootstrap Added</h1></p>
@@ -11,13 +7,16 @@
          <p>THE WEB STARTUP</p>
          <p>THE WEB STARTUP atom </p>
          <p>adding bootstrap</p>
+<<<<<<< HEAD
 
+=======
+>>>>>>> 311db4d64b501d48e1f6107b866790edada50535
    </div>
 </div>
-
 <div class="redbox">
 	test line to be deleteed
 </div>
+<<<<<<< HEAD
 
     <p align="center"><h1>bootstrap Added</h1></p>
     <h1>WELCOME TO DOZO THEME</h1>
@@ -38,4 +37,6 @@
 >>>>>>> 33f35a8ea420868d9228463756ada0ff67c1592a
 
 
+=======
+>>>>>>> 311db4d64b501d48e1f6107b866790edada50535
 <?php  get_footer();?>
