@@ -7,10 +7,7 @@
          <p>THE WEB STARTUP</p>
          <p>THE WEB STARTUP atom </p>
          <p>adding bootstrap</p>
-<<<<<<< HEAD
 
-=======
->>>>>>> 311db4d64b501d48e1f6107b866790edada50535
    </div>
 </div>
 <div class="redbox">
