@@ -1,12 +1,18 @@
 <div class="container">
-  <div class="col-md-12">
-	   <?php get_header();?>
-		<?php wp_head(); ?>
-         <p align="center"><h1>bootstrap Added</h1></p>
-         <h1>WELCOME TO DOZO THEME</h1>
-        
-  </div>
+  <div>
+    <div class="col-md-12">
+	       <?php get_header();?>
+		    <?php wp_head(); ?>
+          <h1>WELCOME TO DOZO THEME</h1>
+          <p align="center"><h1>bootstrap Added</h1></p>
+    </div>
+ </div>
 </div>
 
-
-<?php  get_footer();?>
+<div class="container">
+  <div class="row">
+    <div class="col-md-12">
+      <?php  get_footer();?>
+    </div>
+  </div>
+</div>
