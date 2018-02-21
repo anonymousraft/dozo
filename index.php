@@ -13,7 +13,6 @@
 <div class="redbox">
 	test line to be deleteed
 </div>
-<<<<<<< HEAD
 
     <p align="center"><h1>bootstrap Added</h1></p>
     <h1>WELCOME TO DOZO THEME</h1>
