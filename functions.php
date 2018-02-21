@@ -16,6 +16,7 @@ function doz_theme_setup(){
 	add_theme_support( 'menus' );
 
 	register_nav_menu( 'primary', 'Primary Header Menu' );
+	register_nav_menu( 'secondary', 'secondary Footer Menu' );
 }
 
 add_action('after_setup_theme','doz_theme_setup');
